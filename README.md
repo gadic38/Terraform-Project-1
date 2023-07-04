@@ -25,3 +25,10 @@ It should run after the EC2 is deployed ( use depends_on) and read about the bes
 use ansible with terraform together.
 
 Bonus: Add Route 53 Using Terraform to the Architecture.
+
+
+
+
+##class diagram
+
+https://github.com/gadic38/Terraform-Project-1/blob/main/project%201%20Diagram.drawio
